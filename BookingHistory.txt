@@ -1,0 +1,3 @@
+Passenger: mutlu | Phone: 1235452 | Destination: Dubai | Date: 12-7-2026 | Days: 5 | Members: 4 | Total Price: ₹400000
+Passenger: fyfj | Phone: 6464131 | Destination: Goa | Date: Trip | Days: 1 | Members: 3 | Total Price: ₹15000
+Passenger: fyfj | Phone: 6464131 | Destination: Goa | Date: Trip | Days: 1 | Members: 3 | Total Price: ₹15000
