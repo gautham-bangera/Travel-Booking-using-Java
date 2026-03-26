@@ -1,4 +1,5 @@
-#✈ Travel Booking System (Java Swing)
+<h1 align="center">✈️ Travel Booking System</h1>
+<p align="center">Java Swing Desktop Application</p>
     
 
 
