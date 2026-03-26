@@ -6,14 +6,13 @@
 
 
 
-##📌 Overview
+<h2 align="center">📌 Overview</h2>
 
 A desktop-based Travel Booking System developed using Java Swing, allowing users to log in, book travel packages, and generate tickets.
 
 This project demonstrates GUI development, event handling, and file management in Java.
 
-###🚀 Features
-
+<h3 align="center">🚀 Features</h3>
 ✔️ User Login Authentication
 ✔️ Travel Package Booking
 ✔️ Ticket Generation System
